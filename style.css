@@ -1,10 +1,10 @@
       h2 {
   color: #143152;
-  text-decoration: underline 3px #143152;
-  letter-spacing: -1px;
-  word-spacing: 3px;
-  text-shadow: 2px 2px 5px #94A1B3;
-  font-size: 170%
+  text-decoration: underline 3 px #143152;
+  letter-spacing: -1 px;
+  word-spacing: 3 px;
+  text-shadow: 2 px 2 px 5 px #94A1B3;
+  font-size: 170 %
 }
 
 
@@ -13,19 +13,19 @@ body {
 }
 
 img:hover {
-  width: 300px;
-  border: dotted white 5px;
-  border-radius: 10%;
+  width: 300 px;
+  border: dotted white 5 px;
+  border-radius: 10 %;
 }
 
 h2:hover {
-  font-size: 200%;
+  font-size: 200 %;
 }
 
 nav {
   list-style-type: none;
   background-color: #143152;
-  width: 100%;
+  width: 100 %;
   position: fixed;
   top: 0;
   left: 0;
@@ -37,7 +37,7 @@ li a {
   color: white;
   display: block;
   float: left;
-  padding: 15px 50px;
+  padding: 15 px 50 px;
 }
 
 li a:hover {
