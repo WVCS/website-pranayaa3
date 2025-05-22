@@ -4,6 +4,7 @@
   letter-spacing: -1px;
   word-spacing: 3px;
   text-shadow: 2px 2px 5px #94A1B3;
+  font-size: 170%
 }
 
 
@@ -20,3 +21,27 @@ img:hover {
 h2:hover {
   font-size: 200%;
 }
+
+nav {
+  list-style-type: none;
+  background-color: #143152;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+    
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  display: block;
+  float: left;
+  padding: 15px 50px;
+}
+
+li a:hover {
+  background-color: #D2D7DF;
+  color: black;
+  opacity: 0.7;
+} 
