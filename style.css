@@ -40,7 +40,7 @@ li a {
   padding: 15 px 50 px;
 }
 
-li a:hover {
+li a: hover {
   background-color: #D2D7DF;
   color: black;
   opacity: 0.7;
