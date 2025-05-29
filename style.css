@@ -13,11 +13,11 @@ body {
 }
 
 img{
-      width: 100px;
+      width: 150px;
 }
 
 img:hover {
-  width: 120px;
+  width: 200px;
   border: dotted white 5px;
   border-radius: 10%;
 }
