@@ -12,6 +12,10 @@ body {
   background-color: #D2D7DF;
 }
 
+img{
+      width: 50%
+}
+
 img:hover {
   width: 120px;
   border: dotted white 5px;
