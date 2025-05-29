@@ -13,7 +13,7 @@ body {
 }
 
 img:hover {
-  width: 300px;
+  width: 120px;
   border: dotted white 5px;
   border-radius: 10%;
 }
